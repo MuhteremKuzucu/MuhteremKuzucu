@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 I'm Muhterem Kuzucu, Full Stack Developer :computer: 
 
   </a>
@@ -40,10 +40,4 @@ I'm Muhterem Kuzucu, Full Stack Developer :computer:
   <a href="https://www.linkedin.com/in/muhterem-kuzucu/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
-<p align="right">
-@@ -51,4 +51,4 @@
-**MuhteremKuzucu** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :telescope: I'
--->
--->
+
