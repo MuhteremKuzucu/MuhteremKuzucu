@@ -1,10 +1,6 @@
 ## Hi there 👋
-I'm Harvey Watson, Front-End Developer :computer: 
-  I'm Harveyy Watson, Front-End Developer :computer: 
-  </br>
-  <div>
-  <a href="https://harveycw.netlify.app/" target="_blank">
-<kbd> <br> Personal Website <br> </kbd>
+I'm Muhterem Kuzucu, Full Stack Developer :computer: 
+
   </a>
   </div> 
 <p align="center">
@@ -40,14 +36,13 @@ I'm Harvey Watson, Front-End Developer :computer:
 ## Contact Me
 
 <p align="center">
-  <a href="https://harveycw.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
-  <a href="mailto:harvey@clarusway.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="https://www.linkedin.com/in/harveyy/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
+  <a href="mailto:kuzucumuhterem@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
+  <a href="https://www.linkedin.com/in/muhterem-kuzucu/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
 <p align="right">
 @@ -51,4 +51,4 @@
-**HarveyCla/HarveyCla** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**MuhteremKuzucu** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :telescope: I'
 -->
